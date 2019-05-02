@@ -1,6 +1,5 @@
 'use strict';//стандар ES6
-a=5;
-console.log(a);
+
 var numer=5;//число 
 var string="Hello";//строка
 var boolean=true;//булевая переменная тру фолс(правда/неправда)
