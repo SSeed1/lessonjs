@@ -1,3 +1,4 @@
+'use strict';
 var money=prompt("Ваш бюджет на месяц:",' ');
 console.log(money);
 var time=prompt("Ваша дата рождения-Введите дату в формате YYYY-MM-DD:",'');
